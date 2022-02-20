@@ -6,3 +6,6 @@
 # 5. RNN
 # 6. LSTM
 # 7. GRU
+# 8. Principle componments analysis
+# 9. Support vector machine
+# 10. HAR
