@@ -17,7 +17,7 @@ This folder contains three sub-folders containing MATLAB code for processing fin
 
 ## 1. Data ##
 The Data folder includes the following files:
-Data_Process.m is used for data processing, including generating lags for each variable. 
+processData.m is used for data processing, including generating lags for each variable. 
 	loadData.py shows how to import the processed financial data, generate the covariance matrix and select data based on the required covariance threshold. 
 
 ## 2.Traditional models ##
